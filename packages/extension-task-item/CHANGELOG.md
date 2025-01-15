@@ -1,5 +1,23 @@
 # Change Log
 
+## 2.11.2
+
+## 2.11.1
+
+## 2.11.0
+
+### Patch Changes
+
+- d1b7dd2: Resolves an issue with the checkbox, where sometimes the check would not be properly updated
+
+## 2.10.4
+
+## 2.10.3
+
+## 2.10.2
+
+## 2.10.1
+
 ## 2.10.0
 
 ## 2.9.1

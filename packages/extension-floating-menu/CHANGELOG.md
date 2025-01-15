@@ -1,5 +1,23 @@
 # Change Log
 
+## 2.11.2
+
+## 2.11.1
+
+## 2.11.0
+
+### Patch Changes
+
+- d9b6ef5: Fixed an issue that cause the floating menu empty-node check to not respect leaf nodes that didn't count into a nodes text content
+
+## 2.10.4
+
+## 2.10.3
+
+## 2.10.2
+
+## 2.10.1
+
 ## 2.10.0
 
 ### Patch Changes

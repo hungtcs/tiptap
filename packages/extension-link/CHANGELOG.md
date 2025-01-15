@@ -1,5 +1,27 @@
 # Change Log
 
+## 2.11.2
+
+## 2.11.1
+
+## 2.11.0
+
+### Patch Changes
+
+- 2acf260: fixes #5679 - perform string sanitization to remove unwanted "object replacement characters" from the before performing link detection
+
+## 2.10.4
+
+### Patch Changes
+
+- 1c2fefe: Added checks for allowed protocols in link commands & exported isValidUri helper for manual checks outside of the extension
+
+## 2.10.3
+
+## 2.10.2
+
+## 2.10.1
+
 ## 2.10.0
 
 ### Patch Changes

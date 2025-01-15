@@ -1,5 +1,23 @@
 # Change Log
 
+## 2.11.2
+
+## 2.11.1
+
+## 2.11.0
+
+### Patch Changes
+
+- a8d37ee: Improved youtube regexes with more solid variants handling more subdomains and properties
+
+## 2.10.4
+
+## 2.10.3
+
+## 2.10.2
+
+## 2.10.1
+
 ## 2.10.0
 
 ## 2.9.1

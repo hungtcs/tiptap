@@ -1,5 +1,23 @@
 # Change Log
 
+## 2.11.2
+
+## 2.11.1
+
+## 2.11.0
+
+### Patch Changes
+
+- ce91452: Fixed an issue that caused defaultAlignment options not being added as text-styles to elements. defaultAlignment is now nullable to **disable the enforced text-align styles**.
+
+## 2.10.4
+
+## 2.10.3
+
+## 2.10.2
+
+## 2.10.1
+
 ## 2.10.0
 
 ## 2.9.1

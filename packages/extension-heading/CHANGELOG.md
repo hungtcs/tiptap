@@ -1,5 +1,23 @@
 # Change Log
 
+## 2.11.2
+
+## 2.11.1
+
+## 2.11.0
+
+### Patch Changes
+
+- 01547d5: Fixed a bug causing the levels rule to be ignored if a level of 1 was **not allowed**
+
+## 2.10.4
+
+## 2.10.3
+
+## 2.10.2
+
+## 2.10.1
+
 ## 2.10.0
 
 ## 2.9.1

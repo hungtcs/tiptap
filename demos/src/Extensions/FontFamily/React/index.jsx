@@ -41,9 +41,9 @@ export default () => {
             Inter
           </button>
           <button
-            onClick={() => editor.chain().focus().setFontFamily('Comic Sans MS, Comic Sans').run()}
+            onClick={() => editor.chain().focus().setFontFamily('"Comic Sans MS", "Comic Sans"').run()}
             className={
-              editor.isActive('textStyle', { fontFamily: 'Comic Sans MS, Comic Sans' })
+              editor.isActive('textStyle', { fontFamily: '"Comic Sans MS", "Comic Sans"' })
                 ? 'is-active'
                 : ''
             }
@@ -78,13 +78,6 @@ export default () => {
             data-test-id="css-variable"
           >
             CSS variable
-          </button>
-          <button
-            onClick={() => editor.chain().focus().setFontFamily('"Comic Sans MS", "Comic Sans"').run()}
-            className={editor.isActive('textStyle', { fontFamily: '"Comic Sans"' }) ? 'is-active' : ''}
-            data-test-id="comic-sans-quoted"
-          >
-            Comic Sans quoted
           </button>
           <button
             onClick={() => editor.chain().focus().setFontFamily('"Exo 2"').run()}

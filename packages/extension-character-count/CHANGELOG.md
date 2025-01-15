@@ -1,5 +1,27 @@
 # Change Log
 
+## 2.11.2
+
+## 2.11.1
+
+## 2.11.0
+
+### Patch Changes
+
+- 14681a1: truncate initial `content`, if limit is set on the character count extension fixes #5851
+
+## 2.10.4
+
+## 2.10.3
+
+### Patch Changes
+
+- d048f4d: fix: #5851 - While setting `content` directly while using character-count
+
+## 2.10.2
+
+## 2.10.1
+
 ## 2.10.0
 
 ## 2.9.1
